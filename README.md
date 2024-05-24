@@ -15,13 +15,13 @@ Dataset includes 2 tables: ecommerce retail and segmentation.
 
 - Ecommerce retail dataframe:
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/735e5ae2-041f-4336-86ed-b95f104c716b/Untitled.png)
+![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/735e5ae2-041f-4336-86ed-b95f104c716b/Untitled.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/f3694098-0050-4b45-85de-6d747933100a/Untitled.png)
+![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/f3694098-0050-4b45-85de-6d747933100a/Untitled.png)
 
 - Segmentation dataframe: We have to split each RFM score into single rows.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/90f6e9f2-3227-4d2e-899b-fc6e5bd82781/Untitled.png)
+![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/90f6e9f2-3227-4d2e-899b-fc6e5bd82781/Untitled.png)
 
 ### 3. RFM model
 
@@ -35,17 +35,17 @@ MONETARY VALUE (M): Total money this customer spent.
 
 ## II. Data visualization & Insight
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/8176aa39-03c3-43e0-81f0-4e4f7d97ebb2/Untitled.png)
+![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/8176aa39-03c3-43e0-81f0-4e4f7d97ebb2/Untitled.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/bda739b2-f883-4e69-be7d-bb13dfba037e/Untitled.png)
+![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/bda739b2-f883-4e69-be7d-bb13dfba037e/Untitled.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/3a273b8f-4f41-455b-9547-89a8fd180518/Untitled.png)
+![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/3a273b8f-4f41-455b-9547-89a8fd180518/Untitled.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/ef4011c6-f0c2-412b-859e-ac05e745f929/Untitled.png)
+![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/ef4011c6-f0c2-412b-859e-ac05e745f929/Untitled.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/5da62101-519e-4b42-8244-7a9c0652b8ed/Untitled.png)
+![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/5da62101-519e-4b42-8244-7a9c0652b8ed/Untitled.png)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/d3c6dca5-5921-499b-ba7f-faebdb156823/Untitled.png)
+![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/d3c6dca5-5921-499b-ba7f-faebdb156823/Untitled.png)
 
 - Distribution
     
