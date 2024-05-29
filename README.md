@@ -15,13 +15,13 @@ Dataset includes 2 tables: ecommerce retail and segmentation.
 
 - Ecommerce retail dataframe:
 
-[![alt](https://drive.google.com/drive/u/0/folders/1VnSzvzJ6Rvdh_OvLgTvcNYmSNobij41l)](https://github.com/khoatna065/Python_RFM_Analysis/issues/1#issuecomment-2136418742)
+[![alt](https://github.com/khoatna065/Python_RFM_Analysis/assets/167158955/6ae37129-8bde-43ed-b2a2-6dde04bda44b)
 
-![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/f3694098-0050-4b45-85de-6d747933100a/Untitled.png)
+![alt](https://github.com/khoatna065/Python_RFM_Analysis/assets/167158955/2989bed5-b889-4d38-b2b1-2f8c8b25b822)
 
 - Segmentation dataframe: We have to split each RFM score into single rows.
 
-![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/90f6e9f2-3227-4d2e-899b-fc6e5bd82781/Untitled.png)
+![alt](https://github.com/khoatna065/Python_RFM_Analysis/assets/167158955/6f7d3a07-2ee9-4e3d-a64d-78fa926a420a)
 
 ### 3. RFM model
 
