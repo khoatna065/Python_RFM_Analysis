@@ -35,17 +35,17 @@ MONETARY VALUE (M): Total money this customer spent.
 
 ## II. Data visualization & Insight
 
-![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/8176aa39-03c3-43e0-81f0-4e4f7d97ebb2/Untitled.png)
+![alt](https://github.com/khoatna065/Python_RFM_Analysis/assets/167158955/eb6fb922-d1ce-4a24-a260-b0f6b5c9e903)
 
-![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/bda739b2-f883-4e69-be7d-bb13dfba037e/Untitled.png)
+![alt](https://github.com/khoatna065/Python_RFM_Analysis/assets/167158955/570111ca-9562-4fc1-a2b1-a077f6b453c0)
 
-![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/3a273b8f-4f41-455b-9547-89a8fd180518/Untitled.png)
+![alt](https://github.com/khoatna065/Python_RFM_Analysis/assets/167158955/a5302bb3-0ab4-4c7a-85ab-e6d3630c80e3)
 
-![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/ef4011c6-f0c2-412b-859e-ac05e745f929/Untitled.png)
+![alt](https://github.com/khoatna065/Python_RFM_Analysis/assets/167158955/b23c0c75-8da7-46b7-804d-0ba5bd185e6b)
 
-![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/5da62101-519e-4b42-8244-7a9c0652b8ed/Untitled.png)
+![alt](https://github.com/khoatna065/Python_RFM_Analysis/assets/167158955/e2901877-12fd-463e-8fa8-7056dc8b6494)
 
-![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/d3c6dca5-5921-499b-ba7f-faebdb156823/Untitled.png)
+![alt](https://github.com/khoatna065/Python_RFM_Analysis/assets/167158955/e2901877-12fd-463e-8fa8-7056dc8b6494)
 
 - Distribution
     
