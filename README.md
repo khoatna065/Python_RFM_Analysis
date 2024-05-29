@@ -15,7 +15,8 @@ Dataset includes 2 tables: ecommerce retail and segmentation.
 
 - Ecommerce retail dataframe:
 
-![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/735e5ae2-041f-4336-86ed-b95f104c716b/Untitled.png)
+![alt]("C:\Users\Admin\Desktop\1.png")
+
 ![alt](https://prod-files-secure.s3.us-west-2.amazonaws.com/55146c29-fb50-49f3-a16e-d40cce873dc3/f3694098-0050-4b45-85de-6d747933100a/Untitled.png)
 
 - Segmentation dataframe: We have to split each RFM score into single rows.
