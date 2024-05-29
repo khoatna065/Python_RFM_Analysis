@@ -14,6 +14,7 @@
 Dataset includes 2 tables: ecommerce retail and segmentation. 
 
 - Ecommerce retail dataframe:
+![alt](C:\Users\Admin\Desktop\1.png)
 
 ![alt]("C:\Users\Admin\Desktop\1.png")
 
